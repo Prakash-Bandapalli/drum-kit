@@ -1,1 +1,1 @@
-# Click it on screen or type the keys in the keyword to play sounds.
+# Click it on screen or type the keys in the keyboard to play sounds.
